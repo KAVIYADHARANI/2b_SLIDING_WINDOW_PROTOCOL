@@ -17,7 +17,7 @@ Name : Kaviya D
 Register Number : 212223040089
 
 
-# CLIENT:
+## CLIENT:
 ```
 import socket
 s=socket.socket()
@@ -39,7 +39,7 @@ while True:
       i+=s
 ```
 
-# SERVER:
+## SERVER:
 ```
 import socket
 s=socket.socket()
@@ -50,12 +50,13 @@ while True:
 ```
 ## OUPUT
 
-# CLIENT:
+## CLIENT:
 
-<img width="828" alt="2bc" src="https://github.com/user-attachments/assets/139481df-e5dc-4486-a671-a29e783f08c2">
+<img width="1500" alt="2bc" src="https://github.com/user-attachments/assets/139481df-e5dc-4486-a671-a29e783f08c2">
 
-# SERVER:
+## SERVER:
 
-<img width="828" alt="2bs" src="https://github.com/user-attachments/assets/f41f6b44-4995-4a88-81dd-c43218051413">
+<img width="1500" alt="2bs" src="https://github.com/user-attachments/assets/f41f6b44-4995-4a88-81dd-c43218051413">
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
